@@ -13,8 +13,8 @@ To develop a chatbot using SAP Conversational AI.
 ## Team Formation Required: 
 Middle-tier / Backend Developer, Chatbot Developer
 
-Team 1				
-Name	
+Team 1		
+
 Dinesh Gudapalli	dinesh.gudapalli@vestrics.in
 
 Sanjeewa	sanjeewa@pristineworldwide.com
