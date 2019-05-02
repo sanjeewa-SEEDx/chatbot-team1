@@ -16,6 +16,7 @@ Middle-tier / Backend Developer, Chatbot Developer
 Team 1				
 Name	
 Dinesh Gudapalli	dinesh.gudapalli@vestrics.in
+
 Sanjeewa	sanjeewa@pristineworldwide.com
 
 ## Absent
