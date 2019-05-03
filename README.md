@@ -19,8 +19,6 @@ Dinesh Gudapalli	dinesh.gudapalli@vestrics.in
 
 Sanjeewa	sanjeewa@pristineworldwide.com
 
-## Absent
-Manimekalai S	manimekalais@gain-insights.com
 
 
 ## Main Tasks: 
